@@ -1,6 +1,0 @@
-﻿*
-!.gitignore
-!frontend
-!backend
-!nginx
-!docker-compose.yml
